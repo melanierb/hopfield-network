@@ -246,7 +246,7 @@ The capacity of the Hopfield network is assessed in a file [experiments.py](http
 © 2021 GitHub, Inc.
 
 
-EPFL © [Melanie Buechler](https://github.com/mxniella), [Maria Cherchouri](https://github.com/mariach13), [Renuka Singh Virk](https://github.com/renukasinghvirk)
+EPFL © [Melanie Buechler](https://github.com/melanierb), [Maria Cherchouri](https://github.com/mariach13), [Renuka Singh Virk](https://github.com/renukasinghvirk)
 
 
 
